@@ -1,0 +1,188 @@
+You are a senior UI/UX designer specializing in high-converting D2C e-commerce websites.
+
+Design a modern, premium, mobile-first single-product website in Figma for the brand:
+
+Brand Name: TheUrbanBreeze  
+Tagline: “Your Space. Your Breeze.”
+
+Product:
+Portable Handheld & Desk Fan (USB rechargeable)
+
+Target Audience:
+Urban users, office workers, students, travelers, work-from-home professionals
+
+Design Style:
+Minimal, clean, premium, Apple-like aesthetic
+Soft shadows, rounded corners, lots of white space
+Cool color tones (white, light grey, mint green, ice blue)
+
+--------------------------------
+PAGE STRUCTURE (TOP TO BOTTOM)
+--------------------------------
+
+1. NAVBAR
+• Logo (TheUrbanBreeze)
+• Menu: Home, Features, Reviews, FAQ
+• Cart icon
+• CTA button: “Buy Now”
+
+--------------------------------
+
+2. HERO SECTION (ABOVE THE FOLD)
+• Large product image (desk + handheld usage)
+• Headline: “Stay Cool Anywhere, Anytime”
+• Sub-headline: “Compact. Powerful. Made for your space.”
+• CTA buttons:
+  - Buy Now (primary)
+  - View Features (secondary)
+
+• Highlight badges:
+  - USB Rechargeable
+  - Ultra Quiet
+  - Portable
+
+--------------------------------
+
+3. SOCIAL PROOF
+• Star rating (4.8/5)
+• “5000+ Happy Customers”
+• 3 customer testimonials with avatars
+
+--------------------------------
+
+4. FEATURES SECTION (ICON BASED)
+Create 4–6 feature blocks with icons:
+
+• Portable & Lightweight  
+• USB Fast Charging  
+• 3 Speed Modes  
+• Ultra Quiet Motor  
+• Dual Use (Handheld + Desk)  
+• Long Battery Life  
+
+--------------------------------
+
+5. PRODUCT SHOWCASE
+• Multiple angles of product
+• Close-up shots
+• Lifestyle images (office, travel, home)
+
+--------------------------------
+
+6. HOW IT WORKS
+3-step simple explanation:
+
+1. Charge via USB  
+2. Select speed  
+3. Enjoy instant cooling  
+
+--------------------------------
+
+7. PRODUCT DETAILS
+• Specifications table:
+  - Battery capacity
+  - Charging type
+  - Runtime
+  - Noise level
+
+• What's in the box
+
+--------------------------------
+
+8. PRICING SECTION (VERY IMPORTANT)
+
+• Product Name: TheUrbanBreeze AirOne
+• MRP: ₹1999
+• Offer Price: ₹999
+• Discount badge (50% OFF)
+
+• Quantity selector
+• CTA: “Buy Now”
+
+• Trust signals:
+  - 7 Day Returns
+  - Secure Payment
+  - Fast Shipping
+
+--------------------------------
+
+9. COMPARISON SECTION
+
+Compare vs normal fans:
+
+Columns:
+• TheUrbanBreeze vs Traditional Fans
+
+--------------------------------
+
+10. FAQ SECTION
+
+Include 5–6 FAQs:
+• Battery life?
+• Charging time?
+• Noise level?
+• Warranty?
+• Returns?
+
+--------------------------------
+
+11. FINAL CTA (HIGH CONVERSION)
+
+• Headline: “Feel the Breeze Today”
+• Button: “Order Now”
+
+--------------------------------
+
+12. FOOTER
+
+• Links:
+  About Us
+  Contact
+  Privacy Policy
+  Terms
+  Returns
+
+• Social icons
+
+--------------------------------
+
+UI COMPONENTS REQUIRED
+
+• Buttons (primary, secondary)
+• Cards
+• Product badges
+• Rating stars
+• Input fields (newsletter)
+
+--------------------------------
+
+DESIGN SYSTEM
+
+• Font: Inter / Poppins
+• Colors:
+  - Primary: Ice Blue / Mint Green
+  - Secondary: Dark Grey
+  - Background: White
+
+• Border radius: 12–16px
+• Spacing: consistent 8px grid system
+
+--------------------------------
+
+RESPONSIVENESS
+
+Design for:
+• Mobile (priority)
+• Tablet
+• Desktop
+
+--------------------------------
+
+OUTPUT EXPECTATION
+
+• Fully structured Figma layout
+• Organized layers and components
+• Reusable design system
+• Ready for developer handoff
+
+The design should feel like a premium D2C brand (similar to Apple, Boat, or Dyson style).
